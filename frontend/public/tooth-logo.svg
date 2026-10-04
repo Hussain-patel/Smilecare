@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="toothGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14B8A6" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+    <linearGradient id="sparkleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#F0FDFA"/>
+  <path d="M50 16C37 16 28 24 28 36C28 47 32 54 36 68C39 78 41 84 46 84C50 84 50 74 50 68C50 74 50 84 54 84C59 84 61 78 64 68C68 54 72 47 72 36C72 24 63 16 50 16Z" fill="url(#toothGrad)" />
+  <path d="M75 22L77.5 28.5L84 31L77.5 33.5L75 40L72.5 33.5L66 31L72.5 28.5L75 22Z" fill="url(#sparkleGrad)" />
+</svg>
